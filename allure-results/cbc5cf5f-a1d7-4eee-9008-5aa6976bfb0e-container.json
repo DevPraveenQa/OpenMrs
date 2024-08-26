@@ -1,0 +1,1 @@
+{"uuid":"cbc5cf5f-a1d7-4eee-9008-5aa6976bfb0e","name":"Suite","children":["6c8230ea-9855-427d-92bf-b1a616e1a4d8"],"befores":[{"name":"extendReportStart","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724312706549,"stop":1724312707054}],"afters":[],"start":1724312706490,"stop":1724312713875}
